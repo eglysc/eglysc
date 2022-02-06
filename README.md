@@ -2,7 +2,7 @@
 
 # Oi 👋, Eu sou Egly Santana
 
-Sou um fã de fotografia e videos e por isso que não tem nada a ver, seja bem- vindo ao meu perfil no GitHub
+Desde , seja bem- vindo ao meu perfil no GitHub
 
 ## Github Stats
 <center>
@@ -10,11 +10,7 @@ Sou um fã de fotografia e videos e por isso que não tem nada a ver, seja bem- 
 <tr>
     <td><img height="165em" src="https://github-readme-stats.vercel.app/api?username=eglysc&show_icons=true&theme=dark&include_all_commits=true&count_private=true" /></td>
     <td><img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eglysc&layout=compact&langs_count=7&theme=dark" /></td>
-    
-  
 </tr>
-
-
 </table>
 </center>
 </div>
