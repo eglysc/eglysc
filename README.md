@@ -6,9 +6,9 @@ Seja bem- vindo ao meu perfil no GitHub
 
 ## Sobre mim
 
-Em transição de carreira da área de suporte/infraestrutura para DevOps e SRE
-E ajudo pessoas a se familiarizarem com tecnologia
-Repassar o conhecimento e adquirir novos
+Em transição de carreira da área de suporte/infraestrutura para DevOps e SRE.
+E ajudo pessoas a se familiarizarem com tecnologia.
+Repassar o conhecimento e adquirir novos.
 
 ## Github Stats
 <center>
