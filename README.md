@@ -1,6 +1,6 @@
 
 
-# Oi 👋, Eu sou Egly Santana
+# Oi! Eu sou Egly Santana
 
 Seja bem- vindo ao meu perfil no GitHub
 
