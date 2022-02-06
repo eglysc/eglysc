@@ -1,6 +1,6 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
-### Oi 👋, Eu sou Egly Santana
+
+#Oi 👋, Eu sou Egly Santana
 
 Sou um fã de fotografia e videos e por isso que não tem nada a ver, seja bem- vindo ao meu perfil no GitHub
 
